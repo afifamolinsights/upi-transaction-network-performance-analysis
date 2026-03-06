@@ -283,8 +283,7 @@ Travel, shopping, and utility payments showed higher transaction volumes compare
 # 13. Author
 
 **Afifa Mol**
-
-Aspiring **Data Analyst**
+**Data Analyst**
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 * LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
