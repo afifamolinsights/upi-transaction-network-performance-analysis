@@ -5,7 +5,7 @@
 ## 📊 Tableau Dashboard
 
 <p align="center">
-  <img src="C:\Users\afifa\Pictures\Screenshots\Screenshot 2026-02-28 012855.png" width="900">
+  <img src="tableau_dashboard.png">
 </p>
 
 ---
