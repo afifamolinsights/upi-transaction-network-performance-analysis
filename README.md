@@ -9,10 +9,6 @@
 </p>
 
 ---
-
-# ⚙️ Project Type Flags
-
----
 # ⚙️ Project Type Flags
 
 * [x] Exploratory Data Analysis (EDA)
@@ -282,7 +278,7 @@ Travel, shopping, and utility payments showed higher transaction volumes compare
 
 # 13. Author
 
-**Afifa Mol**
+**Afifa Mol**-
 **Data Analyst**
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)
