@@ -269,9 +269,9 @@ Travel, shopping, and utility payments showed higher transaction volumes compare
 
 | Deliverable          | Description                               | Location     |
 | -------------------- | ----------------------------------------- | ------------ |
-| Jupyter Notebook     | Data analysis and ML model implementation | `/notebooks` |
-| Tableau Dashboard    | Interactive visualization dashboard       | `/visuals`   |
-| Dataset              | Transaction dataset used for analysis     | `/data`      |
+| Jupyter Notebook     | Data analysis and ML model implementation |/notebooks/UPI_Transaction_Analysis.ipynb|
+| Tableau Dashboard    | Interactive visualization dashboard       | /tableau_dashboard.png |
+| Dataset              | Transaction dataset used for analysis     | /data/raw/dataset_payment.xls |
 | Project Presentation | Project explanation slides                | `/reports`   |
 
 ---
