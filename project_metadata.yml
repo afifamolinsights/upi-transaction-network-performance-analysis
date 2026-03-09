@@ -1,72 +1,68 @@
-# ============================================================
-# project_metadata.yml
-# PURPOSE: Machine-readable project metadata only.
-# This file contains NO narrative, NO insights, NO analysis.
-# It exists for indexing, automation, and portfolio cataloging.
-# ============================================================
-
 project:
-  name: "[Project Title]"
-  slug: "[project-title-lowercase-hyphenated]"   # Used for folder names, URLs
+  name: "UPI Transaction & Network Performance Analysis"
+  slug: "upi-transaction-network-performance-analysis"
   version: "1.0.0"
-  status: "completed"                             # Options: in-progress | completed | archived
-  last_updated: "YYYY-MM-DD"
+  status: "completed"
+  last_updated: "2026-03-10"
 
 author:
-  name: "[Your Full Name]"
-  role: "[Your Role or Title]"
-  github: "[github_username]"
-  linkedin: "[linkedin_profile_url]"
-  email: "[optional]"
+  name: "Afifa Mol"
+  role: "Aspiring  Data Analyst"
+  github: "afifamolinsights"
+  linkedin: "https://linkedin.com/in/your-linkedin-profile"
+  email: "afifamolb85@gmail.com"
 
 project_type:
-  primary: "[e.g., exploratory-analysis]"        # See taxonomy below
+  primary: "exploratory-analysis"
   secondary:
-    - "[e.g., dashboard]"
-    - "[e.g., data-pipeline]"
+    - "dashboard"
+    - "predictive-model"
 
-# PROJECT TYPE TAXONOMY (pick what applies):
-# exploratory-analysis | sql-analysis | dashboard | data-pipeline
-# predictive-model | data-cleaning | reporting | visualization
-# end-to-end | automation | other
-
-domain: "[e.g., finance / healthcare / marketing / operations / education / other]"
+domain: "finance"
 
 tools:
   languages:
-    - "[e.g., Python 3.11]"
-    - "[e.g., SQL]"
+    - "Python"
   libraries:
-    - "[e.g., pandas 2.0]"
-    - "[e.g., matplotlib 3.7]"
+    - "pandas"
+    - "numpy"
+    - "scikit-learn"
+    - "matplotlib"
+    - "seaborn"
   platforms:
-    - "[e.g., GitHub]"
-    - "[e.g., Google Colab]"
+    - "GitHub"
+    - "Jupyter Notebook"
   visualization:
-    - "[e.g., Power BI]"
-    - "[e.g., Tableau]"
-    - "[e.g., Plotly]"
+    - "Tableau"
+    - "Matplotlib"
+    - "Seaborn"
 
 data:
   sources:
-    - name: "[Source name]"
-      type: "[csv / api / database / web-scrape / manual / public-dataset]"
-      access: "[public / private / simulated / anonymized]"
-  row_count_approx: "[e.g., 50000]"
+    - name: "UPI Transaction Dataset"
+      type: "excel"
+      access: "simulated"
+  row_count_approx: "10000"
   date_range:
-    start: "YYYY-MM-DD"
-    end: "YYYY-MM-DD"
+    start: "N/A"
+    end: "N/A"
 
 outputs:
-  - type: "[notebook / dashboard / report / csv / script / slides]"
-    path: "[relative/path/to/output]"
-    description: "[One-line description]"
+  - type: "notebook"
+    path: "notebooks/UPI_Transaction_Analysis.ipynb"
+    description: "Exploratory analysis and machine learning model development"
+
+  - type: "dashboard"
+    path: "tableau_dashboard.png"
+    description: "Tableau dashboard visualizing transaction performance insights"
 
 dependencies:
-  file: "[requirements.txt / environment.yml / packages.R / none]"
-  notes: "[Any setup instructions or environment caveats]"
+  file: "none"
+  notes: "Project uses standard Python data analysis libraries."
 
 tags:
-  - "[keyword-1]"
-  - "[keyword-2]"
-  - "[keyword-3]"
+  - "data-analysis"
+  - "machine-learning"
+  - "tableau"
+  - "fintech"
+  - "upi-transactions"
