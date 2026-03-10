@@ -8,6 +8,12 @@
   <img src="tableau_dashboard.png">
 </p>
 
+## 🚀 Streamlit App Preview
+
+<p align="center">
+  <img src="reports/streamlit_app.png" width="900">
+</p>
+
 ---
 # ⚙️ Project Type Flags
 
