@@ -287,6 +287,6 @@ Travel, shopping, and utility payments showed higher transaction volumes compare
 **Afifa Mol**-
 **Data Analyst**
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* GitHub: https://github.com/afifamolinsights  
+* LinkedIn: https://linkedin.com/in/afifa-mol-b
 .
